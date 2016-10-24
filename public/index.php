@@ -1,0 +1,60 @@
+// https://codepen.io/rachel_web/pen/JKzrav
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Document</title>
+		<link href="estilos.css" rel="stylesheet" type="text/css" /> 
+	</head>
+	<body>
+		<div class="container">
+			<img class="title" src="http://fontmeme.com/embed.php?text=Angry%20Birds&name=FEASFBI_.ttf&size=80&style_color=FFFFFF" alt="Angry Birds Font">
+			<div class="birds-container">
+				<div class="red">
+ 
+					<div class="tail"></div>
+					<div class="head"></div> 
+					
+					<div class="eye left">
+						<div class="pupil"></div>
+						<div class="eyebrow"></div>
+					</div>
+					<div class="mouth"></div>
+					<div class="eye right">
+						<div class="pupil"></div>
+						<div class="eyebrow"></div>
+					</div>
+					<div class="hair"></div>
+					 
+				</div>
+
+				<div class="minion">
+					<div class="ear left"></div>
+					<div class="ear right"></div>
+					<div class="eye left"></div>
+					<div class="eye right"></div>
+					<div class="nose"></div>
+
+				</div>
+
+
+				<div class="black">
+					<div class="hair"></div>
+					<div class="head"></div>
+
+					<div class="eye left">
+						<div class="pupil"></div>
+						<div class="eyebrow"></div>
+					</div>
+					<div class="eye right">
+						<div class="pupil"></div>
+						<div class="eyebrow"></div>
+					</div>
+					<div class="mouth"></div>
+
+				</div>
+
+			</div>
+		</div>
+	</body>
+</html>
